@@ -1,0 +1,4 @@
+#всплывающее окно на отрпавку формы
+<script language="JavaScript">
+    alert("Привет, мир!");
+</script>
